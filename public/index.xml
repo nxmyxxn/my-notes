@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https:///my-notes</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Build a Record-Triggered Flows</title>
+    <link>https:///my-notes/2.-Build-a-Record-Triggered-Flows</link>
+    <guid>https:///my-notes/2.-Build-a-Record-Triggered-Flows</guid>
+    <description> Define the key components used to create a record-triggered process. Describe when to use Fast Field Updates.</description>
+    <pubDate>Sat, 10 May 2025 15:31:47 GMT</pubDate>
+  </item><item>
+    <title>Welcome</title>
+    <link>https:///my-notes/</link>
+    <guid>https:///my-notes/</guid>
+    <description>Hello This is my Quartz homepage!.</description>
+    <pubDate>Sat, 10 May 2025 15:31:47 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
